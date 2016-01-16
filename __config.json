@@ -1,0 +1,23 @@
+{
+  	"types":{
+		"sonstiges": "09",
+		"Ton": "01",
+		"Licht": "02",
+		"Bühne": "03",
+		"Truss": "04",
+		"Kamera": "05",
+		"Objektiv": "06",
+		"Stativ": "07",
+		"Filter": "08"
+  	},
+  	"counter": "000001",
+	"depts":{
+		"Foto": "01",
+		"Film": "02",
+		"Events": "03"
+	},
+	"cases":{
+		"Moving Heads 01": "MH-01",
+		"andere Aufbewahrung": "AA-00"
+	}
+}
